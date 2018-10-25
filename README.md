@@ -12,5 +12,6 @@ Universal Platine mit Batteriebetrieb für Homematic 868Mhz
 [Software je nach Projekt](https://github.com/jp112sdl) von Jérôme
 
 ![complete](Images/HB-Uni-Bat.jpg)
+
 Beispiel Sensor **HB-UNI-Sen-TEMP-DS18B20**
 ![complete](Images/HB-UNI-Sen-TEMP-DS18B20.jpg)
