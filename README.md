@@ -1,2 +1,2 @@
 # HB-UNI-Bat
-(HB-Uni-Bat.jpg)
+HB-Uni-Bat.jpg
