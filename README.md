@@ -1,5 +1,5 @@
 # HB-UNI-Bat
-#Universal Platine mit Batteriebetrieb für Homematic 868Mhz
+Universal Platine mit Batteriebetrieb für Homematic 868Mhz
 ## benötigte Hardware
  * 1x Arduino Pro Mini **ATmega328P (3.3V/8MHz)**
  * 1x CC1101 Funkmodul **(868 MHz)**
@@ -9,6 +9,8 @@
 * 1x Widerstand 330 Ohm
 * 1x Widerstand 4,7 kOhm **(wenn One Wire benutzt wird)**
 
-[Software](https://github.com/jp112sdl) von Jérôme
+[Software je nach Projekt](https://github.com/jp112sdl) von Jérôme
 
 ![complete](Images/HB-Uni-Bat.jpg)
+Beispiel Sensor **HB-UNI-Sen-TEMP-DS18B20**
+![complete](Images/HB-UNI-Sen-TEMP-DS18B20.jpg)
