@@ -8,8 +8,11 @@ Universal Platine mit Batteriebetrieb für Homematic 868Mhz
 * 1x LED 5mm
 * 1x Widerstand 330 Ohm
 * 1x Widerstand 4,7 kOhm **(wenn One Wire benutzt wird)**
+* 2x Batteriehalter AA / AAA*
 
 [Software je nach Projekt](https://github.com/jp112sdl) von Jérôme
+
+![complete](Images/HB-Uni-Bat-leer.jpg)
 
 ![complete](Images/HB-Uni-Bat.jpg)
 
