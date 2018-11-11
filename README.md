@@ -15,6 +15,8 @@ Universal Platine mit Batteriebetrieb für Homematic 868Mhz
 ![complete](Images/HB-Uni-Bat-leer.jpg)
 
 ![complete](Images/HB-Uni-Bat.jpg)
+Pinout
+![complete](Images/pinout.jpg)
 
 Beispiel Sensor **HB-UNI-Sen-TEMP-DS18B20**
 ![complete](Images/HB-UNI-Sen-TEMP-DS18B20.jpg)
