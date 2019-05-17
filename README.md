@@ -8,7 +8,7 @@ Universal Platine mit Batteriebetrieb für Homematic 868Mhz
 * 1x LED 5mm
 * 1x Widerstand 330 Ohm
 * 1x Widerstand 4,7 kOhm **(wenn One Wire benutzt wird)**
-* 2x Batteriehalter AA / AAA*
+* 2x Batteriehalter AA / AAA (zb. goobay 48677)
 
 [Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
 
