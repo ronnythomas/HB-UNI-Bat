@@ -24,6 +24,7 @@ Pinout
 Änderungen ab V1.6
 * Pinout angepasst -RAW Pins jetzt auch am Ausgang
 * Step Up 3,3V direkt Anschluss auf Platine
+* I2C Anschlüsse an die gängigsten Sensoren Angepasst (z.b BME280)
 ![complete](Images/pinout_16.jpg)
 
 
