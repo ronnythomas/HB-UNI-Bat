@@ -20,6 +20,11 @@ Universal Platine mit Batteriebetrieb für Homematic 868Mhz
 ![complete](Images/HB-Uni-Bat.jpg)
 Pinout
 ![complete](Images/pinout.jpg)
+Änderungen ab V1.6
+* Pinout angepasst -RAW Pins jetzt auch am Ausgang
+* Step Up 3,3V direkt Anschluss auf Platine
+![complete](Images/pinout_16.jpg)
+
 
 Beispiel Sensor **HB-UNI-Sen-TEMP-DS18B20**
 ![complete](Images/HB-UNI-Sen-TEMP-DS18B20.jpg)
