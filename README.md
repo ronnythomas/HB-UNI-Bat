@@ -18,6 +18,7 @@ Universal Platine mit Batteriebetrieb fÃ¼r Homematic 868Mhz
 ![complete](Images/HB-Uni-Bat-leer.jpg)
 
 ![complete](Images/HB-Uni-Bat.jpg)
+
 Pinout
 ![complete](Images/pinout.jpg)
 Änderungen ab V1.6
